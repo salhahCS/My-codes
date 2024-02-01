@@ -1,6 +1,6 @@
 /*
 ***********************************************************************************************
-*                RR simulater | Group 1 | salhah Ibrahim & Lujain Alharbi
+*                RR simulater |C code for Round Robin Scheduling, a project in the Operating systems course to do Round Robin scheduling on two resources (CPU & DISK) where the processes finishes 50% of its processing time on CPU then moves till termination on DISK with some specification that been declared as constants in the code. the scheduling produces 5 files each one has 50 processes and  the numbers for calculations are randomly generated with every evaluation (arrival time by Poisson and cpu and disk time by log-normal)
 **********************************************************************************************
 */
 
